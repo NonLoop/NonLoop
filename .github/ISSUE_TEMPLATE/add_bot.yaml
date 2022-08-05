@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        请按照 [Readme](readme.md) 里所写的格式进行提交。
+        ## 请按照 [Readme](readme.md) 里所写的格式进行提交，不要忘了在上方填写标题
 
   - type: input
     id: name
@@ -45,5 +45,12 @@ body:
     attributes:
       label: Bot 所使用的的协议库
       description: 请填写 Bot 所使用的协议库，例如 `mirai`，`go-cqhttp` 等，如不知道可填 `无`
+    validations:
+      required: true
+
+  - type: textarea
+    id: prove
+    attributes:
+      label: 用于证明该 QQ 号是 Bot 的证据
     validations:
       required: true
