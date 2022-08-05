@@ -1,4 +1,4 @@
-## QBot Statistics
+## NonLoop
 
 用于统计各种已知的公共或非公共 QQ 机器人账户及其维护者，以便 Bot 开发者快速完成黑名单的制作
 
