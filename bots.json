@@ -1,0 +1,22 @@
+[
+    {
+        "name": "ABot",
+        "qid": 2353538071,
+        "repo": [
+            "djkcyl/ABot-Graia"
+        ],
+        "mid": 2948531755,
+        "protocol": "mirai",
+        "datetime": "2022-08-05 14:35:14"
+    },
+    {
+        "name": "BBot",
+        "qid": 2119799445,
+        "repo": [
+            "djkcyl/BBot-Graia"
+        ],
+        "mid": 2948531755,
+        "protocol": "mirai",
+        "datetime": "2022-08-05 14:35:14"
+    }
+]
