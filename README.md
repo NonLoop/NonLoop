@@ -26,7 +26,7 @@
   "repo": [
     "djkcyl/qqbot_statistics"
     ],
-  "mid": "514",
+  "mid": 514,
   "protocol": "mirai",
   "datetime": "2022-08-05 14:25:14",
   "claimed": true
