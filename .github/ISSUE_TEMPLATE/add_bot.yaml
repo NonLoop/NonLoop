@@ -1,0 +1,49 @@
+name: 添加新 Bot
+description: 从这里添加新的 Bot
+title: "[Add Bot]："
+labels: ["add", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请按照 [Readme](readme.md) 里所写的格式进行提交。
+
+  - type: input
+    id: name
+    attributes:
+      label: Bot 名称
+      description: 在此处填写 Bot 的名称，例如：`bot-name`
+    validations:
+      required: true
+
+  - type: input
+    id: qid
+    attributes:
+      label: Bot QQ 号
+      description: 在此处填写 Bot 的 QQ 号，例如：`123456789`
+    validations:
+      required: true
+
+  - type: textarea
+    id: repo
+    attributes:
+      label: Bot 仓库地址
+      description: 请完整填写 Bot 仓库地址，如有多个请使用换行分隔，如不知道可填 `无`。
+    validations:
+      required: true
+
+  - type: input
+    id: mid
+    attributes:
+      label: Bot 维护者 QQ 号
+      description: 请填写 Bot 维护者的 QQ 号，例如：`123456789`，如不知道可填 `无`。
+    validations:
+      required: true
+
+  - type: input
+    id: protocol
+    attributes:
+      label: Bot 所使用的的协议库
+      description: 请填写 Bot 所使用的协议库，例如 `mirai`，`go-cqhttp` 等
+    validations:
+      required: true
