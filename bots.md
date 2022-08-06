@@ -7,3 +7,5 @@
 | Null | 3585892505 | [Project. Null](https://github.com/ProjectNu11/Project-Null) [插件仓库](https://github.com/ProjectNu11/PN-Plugins) | 1417324298 | mirai | 2022-08-05 15:15:00 | √ |
 | Null | 2642035933 | [Project. Null](https://github.com/ProjectNu11/Project-Null) [插件仓库](https://github.com/ProjectNu11/PN-Plugins) | 1417324298 | mirai | 2022-08-05 15:15:00 | √ |
 | Null | 3210815693 | [Project. Null](https://github.com/ProjectNu11/Project-Null) [插件仓库](https://github.com/ProjectNu11/PN-Plugins) | 1417324298 | mirai | 2022-08-05 15:15:00 | √ |
+| Antikythera | 2548857169 | [Antikythera](https://github.com/ProjectHDS/Antikythera) | 3283843753 | konata | 2022-08-06 10:00:00 | √ |
+| ChlorineSharp | 1729178427 | [ChlorineSharp](https://github.com/GBLodb/ChlorineSharp) | 3283843753 | konata | 2022-08-06 10:00:00 | √ |
