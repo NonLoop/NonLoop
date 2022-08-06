@@ -80,5 +80,27 @@
         "protocol": "mirai",
         "datetime": "2022-08-05 15:15:00",
         "claimed": true
+    },
+    {
+        "name": "Antikythera",
+        "qid": 2548857169,
+        "repo": [
+            "ProjectHDS/Antikythera"
+        ],
+        "mid": 3283843753,
+        "protocol": "konata",
+        "datetime": "2022-08-06 10:00:00",
+        "claimed": true
+    },
+    {
+        "name": "ChlorineSharp",
+        "qid": 1729178427,
+        "repo": [
+            "GBLodb/ChlorineSharp"
+        ],
+        "mid": 3283843753,
+        "protocol": "konata",
+        "datetime": "2022-08-06 10:00:00",
+        "claimed": true
     }
 ]
