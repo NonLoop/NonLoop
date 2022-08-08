@@ -10,3 +10,4 @@
 | Antikythera | 2548857169 | [Antikythera](https://github.com/ProjectHDS/Antikythera) | 3283843753 | konata | 2022-08-06 10:00:00 | √ |
 | ChlorineSharp | 1729178427 | [ChlorineSharp](https://github.com/GBLodb/ChlorineSharp) | 3283843753 | konata | 2022-08-06 10:00:00 | √ |
 | 香草 | 2951934543 | 无 | 无 | mirai | 2022-08-06 13:37:00 | × |
+| 星野夜蝶 | 1648468212 | [ChatDACS](https://github.com/Giftia/ChatDACS) | 1005056803 | go-cqhttp | 2022-08-08 12:00:00 | √ |

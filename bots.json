@@ -111,5 +111,16 @@
         "protocol": "mirai",
         "datetime": "2022-08-06 13:37:00",
         "claimed": false
+    },
+    {
+      "name": "星野夜蝶",
+      "qid": 1648468212,
+      "repo": [
+        "Giftia/ChatDACS"
+      ],
+      "mid": 1005056803,
+      "protocol": "go-cqhttp",
+      "datetime": "2022-08-08 12:00:00",
+      "claimed": true
     }
 ]
